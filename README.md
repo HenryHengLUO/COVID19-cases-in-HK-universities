@@ -1,4 +1,4 @@
-[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://www.baidu.com)
+[![Wechaty]](https://www.baidu.com)
 
 # COVID19 CASES IN HONG KONG UNIVERSITIES
 ## main part: HK Universities COVID19 Cases 
