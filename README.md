@@ -1,7 +1,7 @@
 # COVID19 CASES IN HONG KONG UNIVERSITIES
 ## main part: HK Universities COVID19 Cases 
 
-### 🏠Dashboards
+### 🏠 Dashboards
 
 [The Hong Kong Polytechnic University][l1]
 
@@ -13,7 +13,7 @@
 
 [The City University of Hong Kong][l5]
 
-### 🏠Info Square
+### 🏠 Info Square
 
 [Public Information Sharing and Personal Ask&Help Square][l6]
 
@@ -28,13 +28,13 @@
 
 ## usage part: Background Description and Lessons Learned
 
-### 🔔Storyline Start
+### 🔔 Storyline Start
 
 Back in the February 2022, the Hong Kong was severely impacted by the 5th wave of Covid-19. Each and every day, newspapers published tsunami like and exponentially increasing everywhere confirmed cases. Every citizen felt enormously scared and deeply concerned about uncertainty in the future. Most of people had to work from home or stay at home for entire day, shops were closed at a large scale and almost no one could be seen on any street. Even worse, people are surrounded by unclear and sometimes self-contradictory messages. 
 
 My friend, Pili reminded me that as a soft developer, why not to do something to make the society better. To visualize the data might be a good option and let people see it and calm down. Moreover, good news were that Hong Kong universities started to collect and publish daily cases. As a consequence, the project was launched immediately and benefited on Cloud Native, lightweight, low code and “more important”, zero cost. 
 
-### 🔔Storyline Continue
+### 🔔 Storyline Continue
 
 Now in the February 2023, the 5th wave of Covid-19 has already faded away. The city and her citizens become resuscitated and invigorated once more. As the government eased Covid-19 regulations and cancelled isolation orders from 30 January 2023, universities no longer collected and updated the data either. The project have to stop here, although so far thousands of visitors have gotten beneficial and expressed gratitude. 
 
@@ -45,7 +45,7 @@ Through this plight and struggle, everyone has learned more or less. As Alexandr
 
 The is a light-weight low-code cloud native project, whose components are built on Google Cloud Platform and Google Workspace.
 
-### ⚙️Spec
+### ⚙️ Spec
 
 - Database: Google Sheets, Google Docs 
 - Backend: Google Apps Script, GCP Cloud Functions, GCP API Gateway, GCP IAM
@@ -55,32 +55,32 @@ The is a light-weight low-code cloud native project, whose components are built 
 
 
 ## supportive part: Public Information Sources
-### 🔍Hong Kong Government Sources
+### 🔍 Hong Kong Government Sources
 https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf
 https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 https://www.covidvaccine.gov.hk/pdf/death_analysis.pdf
 https://www.covidvaccine.gov.hk/en/dashboard
 
-### 🔍The Hong Kong Polytechnic University Sources
+### 🔍 The Hong Kong Polytechnic University Sources
 https://www.polyu.edu.hk/cpa/notices/index_student.php
 
-### 🔍The University of Hong Kong Sources
+### 🔍 The University of Hong Kong Sources
 https://covid19.hku.hk/control/latest-campus-related-test-positive-cases/
 https://covid19.hku.hk/control/cases-table/
 https://covid19.hku.hk/control/latest-close-contact-with-confirmed-cases/
 
-### 🔍The Chinese University of Hong Kong Sources
+### 🔍 The Chinese University of Hong Kong Sources
 https://www.cuhk.edu.hk/english/whats-on/faces/confirmed-covid-19-cases.html
 
-### 🔍The Hong Kong Baptist University Sources
+### 🔍 The Hong Kong Baptist University Sources
 https://ehsu.hkbu.edu.hk/2019-nCOV/
 
-### 🔍The City University of Hong Kong Sources
+### 🔍 The City University of Hong Kong Sources
 https://auth.cityu.edu.hk
 
 
 ## contributive part: Acknowledgement and Awards
-### 🔑Thanks 
+### 🔑 Thanks 
 #The Hong Kong Government
 
 #The Hong Kong Polytechnic University
@@ -93,12 +93,12 @@ https://auth.cityu.edu.hk
 
 #The City University of Hong Kong
 
-### 🔑Awards
+### 🔑 Awards
 Contributors welcome!
 - if you possess more datasets
 - if you want to improve it
 
-### 🔑Sponsors
+### 🔑 Sponsors
 Please contact me! @Henry
 - if you want to access to raw dataset
 - if you want to access to code
