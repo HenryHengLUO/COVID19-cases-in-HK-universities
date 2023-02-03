@@ -89,10 +89,12 @@ https://auth.cityu.edu.hk
 
 ### Awards
 Contributors welcome!
-- if you have more dataset
-- if you want to make it better
+- if you possess more datasets
+- if you want to improve it
 
 ### Sponsor
 If you want to access to raw dataset, please contact me!
+
 If you want to access to code, please contact me!
+
 @Henry
