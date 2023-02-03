@@ -80,7 +80,7 @@ https://auth.cityu.edu.hk
 
 
 ## contributive part: Acknowledgement and Awards
-### 🔑 Thanks 
+### 🎉 Thanks 
 #The Hong Kong Government
 
 #The Hong Kong Polytechnic University
@@ -93,12 +93,12 @@ https://auth.cityu.edu.hk
 
 #The City University of Hong Kong
 
-### 🔑 Awards
+### 🎉 Awards
 Contributors welcome!
 - if you possess more datasets
 - if you want to improve it
 
-### 🔑 Sponsors
+### 🎉 Sponsors
 Please contact me! @Henry
 - if you want to access to raw dataset
 - if you want to access to code
