@@ -1,4 +1,4 @@
-[!(https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
+[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
 
 # COVID19 CASES IN HONG KONG UNIVERSITIES
 ## main part: HK Universities COVID19 Cases 
