@@ -75,11 +75,16 @@ https://auth.cityu.edu.hk
 
 ## contributive part: Acknowledgement and Awards
 ### Thanks 
-\#The Hong Kong Government
-\#The Hong Kong Polytechnic University
+#The Hong Kong Government
+
+#The Hong Kong Polytechnic University
+
 #The University of Hong Kong
+
 #The Chinese University of Hong Kong
+
 #The Hong Kong Baptist University
+
 #The City University of Hong Kong
 
 ### Awards
