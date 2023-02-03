@@ -22,6 +22,21 @@
 [l6]: https://docs.google.com/document/d/15zdVq6KPEByHO-xtv6hJh-HQz80t6mUyZ5LMeHjtWOU/edit#heading=h.tv3qxy36yxj8
 
 
+## usage part: Background Description and WAIT & HOPE
+
+### Storyline Start
+
+Back in the February 2022, the Hong Kong was severely impacted by the 5th wave of Covid-19. Each and every day, newspapers published tsunami like and exponentially increasing everywhere confirmed cases. Every citizen felt enormously scared and deeply concerned about uncertainty in the future. Most of people had to work from home or stay at home for entire day, shops were closed at a large scale and almost no one could be seen on any street. Even worse, people are surrounded by unclear and sometimes self-contradictory messages. 
+
+My friend, Pili reminded me that as a soft developer, why not to do something to make the society better. To visualize the data might be a good option and let people see it and calm down. Moreover, good news were that Hong Kong universities started to collect and publish daily cases. As a consequence, the project was launched immediately and benefited on Cloud Native, lightweight, low code and “more important”, zero cost. 
+
+### Storyline Continue
+
+Now in the February 2023, the 5th wave of Covid-19 has already faded away. The city and her citizens become resuscitated and invigorated once more. As the government eased Covid-19 regulations and cancelled isolation orders from 30 January 2023, universities no longer collected and updated the data either. The project have to stop here, although so far thousands of visitors have gotten beneficial and expressed gratitude. 
+
+Through this plight and struggle, everyone has learned more or less. As Alexandre Dumas pointed out, “all human wisdom is contained in these two words – WAIT and HOPE.” No matter what happened and will happen, please always take away this two words from the project. WAIT & HOPE.
+
+
 ## technic part: System Architecture and Main Technic Analysis
 
 The is a light-weight low-code cloud native project, whose components are built on Google Cloud Platform and Google Workspace.
@@ -35,6 +50,10 @@ The is a light-weight low-code cloud native project, whose components are built 
 
 ## support part: Public Information Sources
 ### Hong Kong Government Sources
+https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf
+https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
+https://www.covidvaccine.gov.hk/pdf/death_analysis.pdf
+https://www.covidvaccine.gov.hk/en/dashboard
 
 ### The Hong Kong Polytechnic University Sources
 https://www.polyu.edu.hk/cpa/notices/index_student.php
