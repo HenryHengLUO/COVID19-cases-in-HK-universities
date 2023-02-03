@@ -99,7 +99,7 @@ Contributors welcome!
 - if you want to improve it
 
 ### 🎉 Sponsors
-Please contact me! @Henry
+Please contact me! hengluomail@gmail.com @Henry 
 - if you want to access to raw dataset
 - if you want to access to code
 
