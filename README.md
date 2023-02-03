@@ -22,7 +22,7 @@
 [l6]: https://docs.google.com/document/d/15zdVq6KPEByHO-xtv6hJh-HQz80t6mUyZ5LMeHjtWOU/edit#heading=h.tv3qxy36yxj8
 
 
-## usage part: Background Description and WAIT & HOPE
+## usage part: Background Description and Lessons Learned
 
 ### Storyline Start
 
@@ -48,7 +48,7 @@ The is a light-weight low-code cloud native project, whose components are built 
 - Platform: Node.js, NPM
 
 
-## support part: Public Information Sources
+## supportive part: Public Information Sources
 ### Hong Kong Government Sources
 https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf
 https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
@@ -71,4 +71,16 @@ https://ehsu.hkbu.edu.hk/2019-nCOV/
 
 ### The City University of Hong Kong Sources
 https://auth.cityu.edu.hk
+
+
+## contributive part: Acknowledgement and Awards
+### Thanks 
+/#The Hong Kong Government
+\#The Hong Kong Polytechnic University
+The University of Hong Kong
+The Chinese University of Hong Kong
+The Hong Kong Baptist University
+The City University of Hong Kong
+
+### Thanks
 
